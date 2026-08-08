@@ -1,5 +1,9 @@
 # 📊 National Air Quality Data Analysis & Interactive Dashboard
 
+## 📌 Project Type
+
+**Data Analytics | Microsoft Excel**
+
 ## 📌 Project Overview
 
 This project presents an end-to-end analysis of the National Air Quality dataset using Microsoft Excel. The objective is to transform raw air quality data into meaningful insights through data cleaning, exploratory data analysis (EDA), KPI reporting, and an interactive dashboard.
@@ -71,15 +75,16 @@ Raw Dataset
 
 ## 📁 Repository Structure
 
-```
-national-air-quality-data-analysis/
+```text
+National-Air-Quality-Data-Analysis-Excel/
 │
-├── National_Air_Quality_Analysis.xlsx
-├── README.md
-├── dashboard.png
+├── Project National Air Quality.xlsx
+├── Dashboard1.png
+├── Dashboard2.png
+├── Dashboard3.png
+└── README.md
 
 ```
-
 ---
 
 ## 💡 Skills Demonstrated
